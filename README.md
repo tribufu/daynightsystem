@@ -24,10 +24,10 @@ This is where the magic happens. When placed in the level you can configure the 
 
 Some of the custom settings:
 
-| Setting               | Description                                              | Default  | Example              |
-| --------------------- | -------------------------------------------------------- | -------- | -------------------- |
-| DayCycleSpeed         | Sets the speed that time passes                          | 1        | 1 = 60 real minutes  |
-| StartTime             | Defines the date that the system will start counting     | 0        |                      |
+| Setting               | Description                                              | Default  |
+| --------------------- | -------------------------------------------------------- | -------- |
+| DayCycleSpeed         | Sets the speed that time passes                          | 1        |
+| StartTime             | Defines the date that the system will start counting     | 0        |
 
 *If you set 1 to DayCycleSpeed 1 in game day will be 1 hour in world hour*
 
