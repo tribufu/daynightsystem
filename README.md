@@ -29,7 +29,7 @@ Some of the custom settings:
 | DayCycleSpeed         | Sets the speed that time passes                          | 1        |
 | StartTime             | Defines the date that the system will start counting     | 0        |
 
-*If you set 1 to DayCycleSpeed 1 in game day will be 1 hour in world hour*
+*If you set 1 to DayCycleSpeed, 1 in game day will be 1 hour in real world*
 
 New options come in future releases.
 
