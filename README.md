@@ -28,6 +28,9 @@ Some of the custom settings:
 | --------------------- | -------------------------------------------------------- | -------- |
 | DayCycleSpeed         | Sets the speed that time passes                          | 1        |
 | StartTime             | Defines the date that the system will start counting     | 0        |
+| EnableCalendar        | If should count months and years or only days            | true     |
+| DaysPerMonth          | How many days in a month                                 | 30       |
+| MonthPerYear          | How many months in a year                                | 12       |
 
 *If you set 1 to DayCycleSpeed, 1 in game day will be 1 hour in real world*
 
@@ -48,3 +51,7 @@ Used for store some values and create new variable types.
 ## Author
 
 Guilherme Werner
+
+### Liscence
+
+This project is licensed under the MIT License.
