@@ -59,7 +59,3 @@ Used for store some values and create new variable types.
 ## Author
 
 Guilherme Werner
-
-### Liscence
-
-This project is licensed under the MIT License.
