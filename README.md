@@ -20,7 +20,7 @@ Store the user specific clock type preference, and draw the widgets on player vi
 
 #### BP_WeatherManager
 
-This is where the magic happens. When placed in the level you can configure the custom settings and set a reference for the world directional light. (**This is extremely important, if this is not done the system will not work properly**).
+This is where the magic happens. When placed in the level you can configure the custom settings and set a reference for the world directional light, also BP_DefaultGameState must be set in your game mode. (**This is extremely important, if this is not done the system will not work properly**).
 
 Some of the custom settings:
 
